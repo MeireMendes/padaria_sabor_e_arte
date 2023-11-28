@@ -1,5 +1,5 @@
-# projeto3
-A Estrutura geral do projeto foi a construção de um site para um restaurante;
+# Padaria sabor e arte
+A Estrutura geral do projeto foi a construção de um site para uma padaria;
 Foi aplicado estilos CSS para personalizar o cabeçalho do site;
 incorporou fontes externas no projeto web;
 Foi criado um menu responsivo para o site, que funcione bem em diferentes tamanhos de tela;
